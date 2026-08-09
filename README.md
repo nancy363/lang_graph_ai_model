@@ -37,7 +37,7 @@ The script automatically generates a directory structure (/content/support-agent
 
 Crucial Step: Before running the main logic and test cases, ensure you upload your markdown (.md) knowledge base files and any required dataset files (such as sample_questions.json) into their respective folder paths so the program can read them successfully from disk.
 
-Execution:
+## Execution:
 
 Copy the provided code into your notebook or IDE.
 
@@ -47,7 +47,7 @@ Run the provided test cases block. The script will automatically process the que
 
 View the generated langgraph_flow_diagram.jpg to visualize the agent's workflow.
 
-Development Credits
+## Development Credits
 Core Logic: Designed and implemented independently by the developer.
 
 Code Assistance: Parts of the implementation were generated with the assistance of Gemini AI.
