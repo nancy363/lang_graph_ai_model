@@ -29,10 +29,8 @@ This project was developed and tested within a Google Colab environment. The fol
 ## How to Run the Code
 
 * **Environment Setup:** Ensure you are using a Python environment with GPU support (like Google Colab).  
-* **Install Dependencies:** The code requires specific libraries. Run the following command first:  
-
-```bash
-pip install langgraph transformers sentence-transformers torch
+* **Install Dependencies:** The code requires specific libraries. Run the following command first:
+* pip install langgraph transformers sentence-transformers torch
 Upload Files and Folders:
 
 The script automatically generates a directory structure (/content/support-agent/data/knowledge_base) upon execution.
